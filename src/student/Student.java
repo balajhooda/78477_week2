@@ -11,6 +11,7 @@ import java.util.Scanner;
  *
  * @author _sowill
  * tuesday
+ hellooooo
  */
 public class Student {
     int id;
